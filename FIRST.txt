@@ -1,0 +1,12 @@
+// 1. Deklarasi pustaka
+using System;
+
+// 2. Bagian Class
+class ProgramHello
+{
+    // 3. Bagian Fungsi
+	static void Main(String[] args)
+	{
+		Console.WriteLine("Hello World!");
+	}
+}
